@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "code": "AUD",
+    "name": "Australian Dollar",
+    "flag": "https://flagcdn.com/h20/au.png"
+  },
+  {
+    "id": 2,
+    "code": "BHD",
+    "name": "Bahraini Dinar",
+    "flag": "https://flagcdn.com/h20/bh.png"
+  },
+  {
+    "id": 3,
+    "code": "CAD",
+    "name": "Canadian Dollar",
+    "flag": "https://flagcdn.com/h20/ca.png"
+  },
+  {
+    "id": 4,
+    "code": "CHF",
+    "name": "Swiss Franc",
+    "flag": "https://flagcdn.com/h20/ch.png"
+  },
+  {
+    "id": 5,
+    "code": "GBP",
+    "name": "British Pound",
+    "flag": "https://flagcdn.com/h20/gb.png"
+  },
+  {
+    "id": 6,
+    "code": "JPY",
+    "name": "Japanese Yen",
+    "flag": "https://flagcdn.com/h20/jp.png"
+  },
+  {
+    "id": 7,
+    "code": "KYD",
+    "name": "Caymanian Dollar",
+    "flag": "https://flagcdn.com/h20/ky.png"
+  },
+  {
+    "id": 8,
+    "code": "KWD",
+    "name": "Kuwaiti Dinar",
+    "flag": "https://flagcdn.com/h20/kw.png"
+  },
+  {
+    "id": 9,
+    "code": "OMR",
+    "name": "Omani Rial",
+    "flag": "https://flagcdn.com/h20/om.png"
+  },
+  {
+    "id": 10,
+    "code": "UAH",
+    "name": "Ukrainian Hryvna",
+    "flag": "https://flagcdn.com/h20/ua.png"
+  },
+  {
+    "id": 11,
+    "code": "USD",
+    "name": "US Dollar",
+    "flag": "https://flagcdn.com/h20/us.png"
+  }
+]
+
